@@ -16,10 +16,9 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Bhubaneswar_India()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
 		FinishMyProjects()
 	
  ```
@@ -27,9 +26,9 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-singh14&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-singh14&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-singh14&layout=compact&theme=github_dark"/>|
 
 ## Programming Languages
 
@@ -47,13 +46,6 @@
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
 </p>
 
-## Operating Systems
-<p>
-
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-
-	
-</p>
 
 ## Databases and Cloud hosting
 
@@ -95,5 +87,5 @@
 
 
 ------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
-Last Edited on - 11/10/2021
+[Jaydeep-Yadav](https://github.com/Aditya-singh14)
+Last Edited on - 11/23/2021
