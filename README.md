@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-singh14&layout=compact&theme=github_dark"/>|<a href="https://github.com/Aditya-singh14"><img alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aditya-singh14&custom_title=Aditya's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
-
+## Languages
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
