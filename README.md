@@ -32,7 +32,7 @@
 ## Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>
 ### HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Aditya-singh14/Aditya-singh14)
 
 
 <p>
