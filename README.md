@@ -29,8 +29,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya-singh14&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-singh14&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-singh14&layout=compact&theme=github_dark"/>|<a href="https://github.com/Aditya-singh14"><img alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aditya-singh14&custom_title=Aditya's%20Contribution%20Graph&theme=react-dark" /></a>
+## Profile View Counter
+<img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>
+### HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
-## Programming Languages
 
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
