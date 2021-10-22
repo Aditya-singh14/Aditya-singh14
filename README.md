@@ -29,10 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya-singh14&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-singh14&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-singh14&layout=compact&theme=github_dark"/>|<a href="https://github.com/Aditya-singh14"><img alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aditya-singh14&custom_title=Aditya's%20Contribution%20Graph&theme=react-dark" /></a>
-## Profile View Counter
-<img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>
-## HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Aditya-singh14/Aditya-singh14)
+
 
 
 <p>
@@ -101,7 +98,10 @@
 
 
 
-
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 
 <h3 align="left">Languages and Tools:</h3>
