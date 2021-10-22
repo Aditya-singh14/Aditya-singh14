@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-singh14&layout=compact&theme=github_dark"/>|<a href="https://github.com/Aditya-singh14"><img alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aditya-singh14&custom_title=Aditya's%20Contribution%20Graph&theme=react-dark" /></a>
 ## Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>
-### HITS
+## HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Aditya-singh14/Aditya-singh14)
 
 
