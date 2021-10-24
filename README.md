@@ -69,14 +69,14 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-singh-09b9891b2/"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Aditya-singh14"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/profile.php?id=100008538968844"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/ll__a_d_i_t_y_a__ll/"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-singh-09b9891b2/"><img alt="Linkedin" title="Aditya Kumar Singh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Aditya-singh14"><img alt="Github" title="Aditya Kumar Singh Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=100008538968844"><img alt="Facebook" title="Aditya Kumar Singh FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/ll__a_d_i_t_y_a__ll/"><img alt="Instagram" title="Aditya Kumar Singh Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:adisingh5213@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/AdityaK95302403"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:adisingh5213@gmail.com"><img alt="Gmail" title="Aditya Kumar Singh Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/AdityaK95302403"><img alt="Twitter" title="Aditya Kumar Singh Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.qwiklabs.com/public_profiles/d13bdc72-03c6-49d9-aaee-b6833b3ef85b"><img alt="Qwiklabs" title="Aditya Kumar Singh Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
